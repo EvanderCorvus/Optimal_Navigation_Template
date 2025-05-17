@@ -1,0 +1,8 @@
+Parameters optimal:
+
+Reward: R_10
+Penalty: P_0.1
+Epsilon_decay: edec_0.99
+Discount factor gamma: g_0.99
+Learning rate alpha: a_0.1
+Number of episodes: N_1000
